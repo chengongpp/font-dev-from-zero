@@ -19,3 +19,5 @@ CMAP的全称是"Character to Glyph Mapping"，也即从**字符**映射到**字
 有关于表的具体内容，可以参考[OpenType规范: cmap](https://docs.microsoft.com/en-us/typography/opentype/spec/cmap)。
 
 > [不换行空格](https://zh.wikipedia.org/wiki/%E4%B8%8D%E6%8D%A2%E8%A1%8C%E7%A9%BA%E6%A0%BC)早先用于印刷时指示两个单词间不要换行，比如100 km，排版时不应该换行断开；现在多用于在HTML插入空格(```&nbsp;```)，因为HTML会把重复的空格吞掉。
+
+## glyf表

@@ -16,3 +16,4 @@ OpenType:
 
 - [OpenType Cookbook](http://opentypecookbook.com/index.html)
 - [OpenType字体开发](https://docs.microsoft.com/zh-cn/typography/develop/)
+- [How OpenType Works](https://simoncozens.github.io/fonts-and-layout/opentype.html)
